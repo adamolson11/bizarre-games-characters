@@ -1,0 +1,135 @@
+[
+    {
+      "name": "Valiant Defender",
+      "archetype": "Warrior/Knight/Hero",
+      "traits": {
+        "O": "Moderate",
+        "C": "High",
+        "E": "Low to Moderate",
+        "A": "Moderate to High",
+        "N": "Low to Moderate"
+      }
+    },
+    {
+      "name": "Peaceful Warrior",
+      "archetype": "Monk",
+      "traits": {
+        "O": "Low to Moderate",
+        "C": "Low to Moderate",
+        "E": "High",
+        "A": "Low to Moderate",
+        "N": "High"
+      }
+    },
+    {
+      "name": "Astral Sniper",
+      "archetype": "Archer/Ranger",
+      "traits": {
+        "O": "Low to Moderate",
+        "C": "Moderate",
+        "E": "Low to Moderate",
+        "A": "Low to Moderate",
+        "N": "Low to Moderate"
+      }
+    },
+    {
+      "name": "Inventive Idealist Wizard",
+      "archetype": "Wizard/Mage/Sorcerer",
+      "traits": {
+        "O": "High",
+        "C": "Moderate to High",
+        "E": "Low to Moderate",
+        "A": "Low to Moderate",
+        "N": "Moderate"
+      }
+    },
+    {
+      "name": "Scheming Trickster",
+      "archetype": "Rogue/Thief/Assassin",
+      "traits": {
+        "O": "Moderate to High",
+        "C": "Low to Moderate",
+        "E": "Moderate",
+        "A": "Low to Moderate",
+        "N": "High"
+      }
+    },
+    {
+      "name": "Mystical Enigma",
+      "archetype": "Druid/Shaman",
+      "traits": {
+        "O": "High",
+        "C": "Moderate",
+        "E": "Low to Moderate",
+        "A": "Moderate",
+        "N": "Low to Moderate"
+      }
+    },
+    {
+      "name": "Honorable Champion",
+      "archetype": "Paladin",
+      "traits": {
+        "O": "Moderate to High",
+        "C": "High",
+        "E": "Moderate",
+        "A": "Moderate to High",
+        "N": "Low to Moderate"
+      }
+    },
+    {
+      "name": "Savage Brute",
+      "archetype": "Berserker",
+      "traits": {
+        "O": "High",
+        "C": "Low",
+        "E": "High",
+        "A": "Low",
+        "N": "Moderate to High"
+      }
+    },
+    {
+      "name": "Cunning Tactician",
+      "archetype": "Strategist",
+      "traits": {
+        "O": "Moderate",
+        "C": "Moderate to High",
+        "E": "Moderate",
+        "A": "Moderate to High",
+        "N": "Moderate"
+      }
+    },
+    {
+      "name": "Mysterious Sage",
+      "archetype": "Sorceress/Witch",
+      "traits": {
+        "O": "High",
+        "C": "Moderate",
+        "E": "Low to Moderate",
+        "A": "Low to Moderate",
+        "N": "Moderate to High"
+      }
+    },
+    {
+      "name": "Noble Prodigy",
+      "archetype": "Noble/Prince/Princess",
+      "traits": {
+        "O": "Moderate to High",
+        "C": "High",
+        "E": "Moderate",
+        "A": "Moderate to High",
+        "N": "Low to Moderate"
+      }
+    },
+    {
+      "name": "Fearless Voyager",
+      "archetype": "Adventurer/Explorer",
+      "traits": {
+        "O": "Moderate to High",
+        "C": "Low to Moderate",
+        "E": "High",
+        "A": "Low to Moderate",
+        "N": "High"
+      }
+    }
+  ]
+  

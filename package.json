@@ -1,19 +1,20 @@
 {
-  "name": "tomogatchi",
+  "name": "bizarre-games-characters",
   "version": "1.0.0",
   "description": "simple tomogatchi. I am practicing OOP basics.",
   "main": "index.js",
-  "type": "module",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
+    "start":  "npx nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "inquirer": "^9.2.10"
   }
 }
